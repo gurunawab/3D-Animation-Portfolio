@@ -8,20 +8,35 @@ Each section — Home, About, Skills, Projects, and Contact — has been designe
 The website is fully responsive, ensuring smooth usability across all devices including desktops, tablets, and smartphones. It uses modern front-end practices such as localStorage-based theme persistence, flexbox/grid layouts, and GSAP-powered animation triggers to enhance performance and interactivity.
 
 Key Features:
->Dynamic GSAP Animations for smooth transitions and interactive motion.
->Light/Dark Theme Toggle with localStorage persistence.
->Preloader with progress animation and entry transitions.
->Spline 3D Model Integration for modern 3D visuals.
->Responsive Design optimized for all screen sizes.
->Animated Skill Progress Bars showcasing technical proficiency.
->Interactive Contact Section with form validation and success message.
->Custom Cursor Animation for a creative user experience.
->Integrated social media links (GitHub, LinkedIn, X, Instagram).
+
+Dynamic GSAP Animations for smooth transitions and interactive motion.
+
+Light/Dark Theme Toggle with localStorage persistence.
+
+Preloader with progress animation and entry transitions.
+
+Spline 3D Model Integration for modern 3D visuals.
+
+Responsive Design optimized for all screen sizes.
+
+Animated Skill Progress Bars showcasing technical proficiency.
+
+Interactive Contact Section with form validation and success message.
+
+Custom Cursor Animation for a creative user experience.
+
+Integrated social media links (GitHub, LinkedIn, X, Instagram).
 
 Technologies Used:
->HTML5 – Structure and semantics
->CSS3 – Styling, responsive design, and animations
->JavaScript (ES6) – Interactivity and dynamic content handling
->GSAP & ScrollTrigger – Animation and scroll effects
->Spline – 3D scene embedding
->Font Awesome – Iconography
+
+HTML5 – Structure and semantics
+
+CSS3 – Styling, responsive design, and animations
+
+JavaScript (ES6) – Interactivity and dynamic content handling
+
+GSAP & ScrollTrigger – Animation and scroll effects
+
+Spline – 3D scene embedding
+
+Font Awesome – Iconography
